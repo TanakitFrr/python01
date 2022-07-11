@@ -1,0 +1,11 @@
+print("hollo 6/11")
+print("Tanakit Thanasuwanon")
+print("No.8")
+print("อายุ :",17, "ปี")
+print("my brithday:",19102547)
+print("เรียนที่โรงเรียนชลราษฎรอำรุง")
+print("Grade12")
+print("Hobby:",watch a movie)
+print("My fav subject is Math")
+print("My phone is 0648491025")
+#Tanakit Thanasuwanon เลขที่ 8 6/11            
